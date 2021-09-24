@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Location Tracking</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="location_services">Location Services</string>
+    <string name="enable_location_service">Enable Location Service</string>
+    <string name="disable_location_service">Disable Location Service</string>
+    <string name="info_text">We need to where are you GPS will use when you enable it</string>
+    <string name="on_duty">On Duty</string>
+    <string name="off_duty">Off Duty</string>
+    <string name="permission_rationale">Location permission is needed for core functionality</string>
+    <string name="permission_denied_explanation">Permission was denied, but is needed for core
+        functionality.</string>
+
+    <string name="settings">Settings</string>
+    <string name="tracking">Tracking</string>
+    <string name="get_direction">Get Direction</string>
+</resources>
